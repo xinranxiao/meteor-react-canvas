@@ -1,4 +1,4 @@
-# Moniker for Meteor
+# React-canvas for Meteor
 
 Meteor package for [react-canvas](https://github.com/Flipboard/react-canvas) - High performance <canvas> rendering for React components.
 
@@ -9,6 +9,6 @@ Meteor package for [react-canvas](https://github.com/Flipboard/react-canvas) - H
     meteor add xinranxiao:react-canvas
 ```
 
-## Documentaion
+## Documentation
 
 See the official [documentation](https://github.com/Flipboard/react-canvas) for more info
